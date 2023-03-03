@@ -1,0 +1,17 @@
+.filmList {
+  padding-left: 50px;
+}
+
+.listTitle {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.listItem {
+  font-weight: 300;
+  font-size: 40%;
+}
+
+.link {
+  font-size: 20px;
+}
