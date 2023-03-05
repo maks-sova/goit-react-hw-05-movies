@@ -42,7 +42,8 @@
   padding: 15px;
   margin-left: 30px;
   margin-bottom: 10px;
-  background-color: greenyellow;
+  background-color:red;
+  color: aliceblue;
   font-size: 20px;
   display: flex;
   align-items: center;

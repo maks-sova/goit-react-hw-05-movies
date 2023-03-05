@@ -1,6 +1,8 @@
 .listItem {
   font-weight: 300;
   font-size: 40%;
+ list-style: none;
+ text-align: center;
 }
 
 .link {

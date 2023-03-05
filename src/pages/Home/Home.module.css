@@ -1,10 +1,14 @@
 .filmList {
-  padding-left: 50px;
+ text-align: center;
+ list-style: none;
+
 }
 
 .listTitle {
-  font-size: 50px;
-  font-weight: 500;
+  font-size: 60px;
+  font-weight: 400;
+  text-align: center;
+  
 }
 
 .listItem {
